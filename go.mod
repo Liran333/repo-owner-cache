@@ -1,6 +1,8 @@
 module github.com/opensourceways/repo-owners-cache
 
-go 1.18
+go 1.21
+
+toolchain go1.22.3
 
 require (
 	github.com/opensourceways/repo-file-cache v0.0.0-20240206040524-e9730274971d
